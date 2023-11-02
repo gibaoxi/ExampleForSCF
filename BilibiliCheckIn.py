@@ -6,7 +6,7 @@ import re
 from bs4 import BeautifulSoup
 from json.decoder import JSONDecodeError
 
-cookie = ''  # 配置你的cookie
+cookie = 'innersign=0;buvid3=2D2DDCA0-A21A-A94A-3893-6E0BF6F2757699825infoc;b_nut=1698807799;i-wanna-go-back=-1;b_ut=7;_uuid=1039214EA-8BF6-10DEA-BA99-6E3EAE65F61E01173infoc;enable_web_push=DISABLE;header_theme_version=undefined;home_feed_column=4;buvid4=35B124BF-B304-E6E1-018F-959A69F1EC3902418-023110111-SK3hbof5R8la8CT0PkJUgBxsHnO12KsjNrfPGXWknS6WNc%2B50jo5DQ%3D%3D;buvid_fp=06a7be2320d24966e34bef4edb01144a;SESSDATA=6cb21d23%2C1714359826%2Cb060b%2Ab2CjAdTORdDUZt7Cq-ElsbKPaEU9ILfoxJ2aI21s_ojlJ2FRDKSACVK0tuzeUxMLUHqfkSVk9JVFBqZzRZU2R1cnEybFE1ZWZYckVaWmxqemNMc21Vd2c0cVMwZFY5RFZGSTB5YzZDRlhVUGI2bThDSzhBZlIxbnlSOGJ2aWRzY1VIQmFjVkw4NHpRIIEC;bili_jct=584f29168fbe3544c450c485ccd28473;DedeUserID=318842163;DedeUserID__ckMd5=2581eaa3d06653e7;sid=nin7p3pn;browser_resolution=1141-1931;bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTkwNzgzNzgsImlhdCI6MTY5ODgxOTExOCwicGx0IjotMX0.DZdETpvp2GLbFuyxgJf5C0Er5w54h0MmDcdQJ4rhHfA;bili_ticket_expires=1699078318;b_lsid=F8C38D42_18B90FF233D;bsource=search_google'  # 配置你的cookie
 sckey = '' # 配置你的server酱SCKEY
 bid = 'BV1mD4y1U7z9'  # 配置需观看的视频BV号
 
